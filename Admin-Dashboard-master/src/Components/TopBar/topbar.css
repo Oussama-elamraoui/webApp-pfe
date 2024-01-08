@@ -1,0 +1,19 @@
+.topbar-shadow {
+    box-shadow: 1px 1px 20px #00000038;
+}
+
+.settings-button {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    min-width: 300px;
+    max-width: 400px;
+    z-index: 9999;
+    /* To ensure it appears above other elements */
+    /* Add other form styles */
+}

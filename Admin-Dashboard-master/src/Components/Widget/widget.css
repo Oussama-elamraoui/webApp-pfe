@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+#view-default-view {
+    position: relative;
+}
+@layer components {
+    .widget-title{
+        @apply w-1/2 h-16 p-2 border-l-4 text-sm lg:text-base;
+    }
+    .flex-side{
+        @apply sm:w-1/2 w-full flex flex-col 
+    }
+    .flex-child {
+        @apply w-full flex pb-2 border-b border-secondary/50;
+    }
+}
+@layer base{
+
+.data-right p{
+    @apply text-sm
+}}
+
+.MuiDataGrid-withBorderColor{
+color:rgba(255, 255, 255, 0.664)
+}
+ 
+.MuiDataGrid-columnHeaders{
+    background-color:#1f1c1cb2 !important;
+    color: #fff;
+}
+.MuiDataGrid-footerContainer  svg,p,.MuiDataGrid-menuIcon svg,p{
+    color: #fff;
+}
+#mapcontainer{
+    position: relative;
+}
+
