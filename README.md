@@ -1,7 +1,8 @@
 
 
+
 🚦 Excited to share my graduation project: an intelligent app that fights traffic accidents in London! 🚗🚕🚦
-![image](https://github.com/Oussama-elamraoui/webApp-pfe/assets/146080426/f0a4afbd-ffb4-46b4-a915-4b61025f6a3c)
+
 
 [https://www.linkedin.com/posts/oussama-elamraoui-280a39222_django-reactjs-reactnative-activity-7099678491553447936-UMm8?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/oussama-elamraoui-280a39222_django-reactjs-reactnative-activity-7099678491553447936-UMm8?utm_source=share&utm_medium=member_desktop)
 
@@ -16,3 +17,4 @@
 💡 Interestingly, the inception of this project draws inspiration from IBM's venture in the USA, where a similar concept was employed to tackle criminality. We're pioneering a novel approach, adapting it to the critical domain of road safety and accident prevention.
 
 🌐 We are proud to contribute to the safety of cities and apply artificial intelligence for the greater good. Exciting times for technology and road safety! 
+![image](https://github.com/Oussama-elamraoui/webApp-pfe/assets/146080426/f0a4afbd-ffb4-46b4-a915-4b61025f6a3c)
