@@ -1,10 +1,11 @@
 
 
 🚦 Excited to share my graduation project: an intelligent app that fights traffic accidents in London! 🚗🚕🚦
+![image](https://github.com/Oussama-elamraoui/webApp-pfe/assets/146080426/f0a4afbd-ffb4-46b4-a915-4b61025f6a3c)
 
 [https://www.linkedin.com/posts/oussama-elamraoui-280a39222_django-reactjs-reactnative-activity-7099678491553447936-UMm8?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/oussama-elamraoui-280a39222_django-reactjs-reactnative-activity-7099678491553447936-UMm8?utm_source=share&utm_medium=member_desktop)
 
-![image](https://github.com/Oussama-elamraoui/webApp-pfe/assets/146080426/f0a4afbd-ffb4-46b4-a915-4b61025f6a3c)
+
 
 🌟 Leveraging cutting edge technologies, including Django, ReactJS, NodeJs, Vite, React Native, WebMapping, Leaflet and DeckGL, I developed an innovative solution to enhance road safety and predict accident prone areas using ConvLSTM algorithms.
 
